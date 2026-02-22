@@ -1,10 +1,10 @@
-# DNS Anomaly and Hijack Detector
+# dns-anomaly-hijack-detector
 
-Detect DNS hijacks, poisoning attempts, and resolver abuse.
+## Detailed Description
 
 ## Vertical
 
-security
+## Problem Statement
 
 ## Production MVP Deliverables
 
